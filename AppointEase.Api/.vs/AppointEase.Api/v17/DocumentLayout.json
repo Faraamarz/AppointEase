@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|d:\\projects\\web\\appointease\\appointease.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|d:\\projects\\web\\appointease\\appointease.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\dtos\\customerdtos\\addcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\dtos\\customerdtos\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|d:\\projects\\web\\appointease\\appointease.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\dtos\\userdtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F71740-F242-47E4-801C-0F20D3241B9A}|..\\AppointEase.Domain\\AppointEase.Domain.csproj|d:\\projects\\web\\appointease\\appointease.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F71740-F242-47E4-801C-0F20D3241B9A}|..\\AppointEase.Domain\\AppointEase.Domain.csproj|d:\\projects\\web\\appointease\\appointease.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\dtos\\userdtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|d:\\projects\\web\\appointease\\appointease.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B79898A-B48E-4A23-8F43-ABC30CCB6F84}|AppointEase.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F71740-F242-47E4-801C-0F20D3241B9A}|..\\AppointEase.Domain\\AppointEase.Domain.csproj|d:\\projects\\web\\appointease\\appointease.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\configuration\\applicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -35,9 +51,6 @@
       "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\interfaces\\iservicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -45,9 +58,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F71740-F242-47E4-801C-0F20D3241B9A}|..\\AppointEase.Domain\\AppointEase.Domain.csproj|d:\\projects\\web\\appointease\\appointease.domain\\interfaces\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F6D764-55B5-45CF-9AEB-C191AE94BF5E}|..\\AppointEase.Application\\AppointEase.Application.csproj|d:\\projects\\web\\appointease\\appointease.application\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -60,151 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Domain\\Entities\\User.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "..\\AppointEase.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:09:43.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddUserDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
-              "RelativeToolTip": "..\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:07:20.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:59:40.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:55:07.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationConfig.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
-              "RelativeToolTip": "..\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:51:37.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InfrastructureConfig.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
-              "RelativeToolTip": "..\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:47:10.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServicesService.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\ServicesService.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Services\\ServicesService.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\ServicesService.cs",
-              "RelativeToolTip": "..\\AppointEase.Application\\Services\\ServicesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:45:03.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "..\\AppointEase.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:30:04.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Services\\UserService.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "..\\AppointEase.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:42:31.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Services\\CustomerService.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\CustomerService.cs",
-              "RelativeToolTip": "..\\AppointEase.Application\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:43:34.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeToolTip": "..\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:41:28.249Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -223,7 +90,202 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Domain\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\AppointEase.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:26:22.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCustomerDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\CustomerDTOs\\UpdateCustomerDto.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\DTOs\\CustomerDTOs\\UpdateCustomerDto.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\CustomerDTOs\\UpdateCustomerDto.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\DTOs\\CustomerDTOs\\UpdateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:24:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCustomerDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\CustomerDTOs\\AddCustomerDto.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\DTOs\\CustomerDTOs\\AddCustomerDto.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\CustomerDTOs\\AddCustomerDto.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\DTOs\\CustomerDTOs\\AddCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:23:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:23:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:59:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:55:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\Configuration\\ApplicationConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:51:37.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:37:59.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:43:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\DTOs\\UserDTOs\\AddUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:07:20.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\AppointEase.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:09:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InfrastructureConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
+              "RelativeToolTip": "..\\AppointEase.Infrastructure\\Configuration\\InfrastructureConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:47:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ServicesService.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\ServicesService.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Services\\ServicesService.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\ServicesService.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\Services\\ServicesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:45:03.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\AppointEase.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:30:04.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\AppointEase.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:41:28.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Domain\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\AppointEase.Domain\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
@@ -236,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "BaseService.cs",
               "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "..\\AppointEase.Application\\Services\\BaseService.cs",
@@ -249,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "IServicesService.cs",
               "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\IServicesService.cs",
               "RelativeDocumentMoniker": "..\\AppointEase.Application\\Interfaces\\IServicesService.cs",
@@ -262,20 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "..\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
-              "ToolTip": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
-              "RelativeToolTip": "..\\AppointEase.Application\\Interfaces\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:37:59.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "IBaseService.cs",
               "DocumentMoniker": "D:\\Projects\\Web\\AppointEase\\AppointEase.Application\\Interfaces\\IBaseService.cs",
               "RelativeDocumentMoniker": "..\\AppointEase.Application\\Interfaces\\IBaseService.cs",

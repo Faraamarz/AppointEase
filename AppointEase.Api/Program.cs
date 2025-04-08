@@ -24,6 +24,8 @@ builder.Services.AddCors(options =>
 InfrastructureConfig.Config(builder.Services, builder.Configuration);
 ApplicationConfig.Config(builder.Services);
 
+builder.Services.AddRouting(options => options.LowercaseUrls = true);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
