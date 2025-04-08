@@ -1,0 +1,43 @@
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Others
+*.log
+*.tlog
+*.cache
+*.dbmdl
+*.jfm
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# Publish
+publish/

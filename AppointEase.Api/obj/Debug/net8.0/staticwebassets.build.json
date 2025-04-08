@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NKUCFGQWC31G1Dpwn3uCAmW2T3wmpnQRmEYLLEYCt68=",
+  "Source": "AppointEase.Api",
+  "BasePath": "_content/AppointEase.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
